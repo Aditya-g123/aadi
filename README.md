@@ -1,2 +1,2 @@
-# aadi
-here my first project, guys
+# Finance Analysis
+Technology used: Python along with its libraries.
